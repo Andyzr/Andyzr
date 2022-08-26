@@ -1,7 +1,6 @@
 - 👋 Hi, I’m Andy (Zhuoran) Zhang @Andyzr
-- 👀 I’m interested in machine learning, causal inferenence, transportation safety and infrastructure management
-- 🌱 I’m currently a PhD student in Civil Engineering at Carnegie Mellon University
-- 💞️ I’m looking to collaborate on causal inference and machine learning.
+- 👀 I’m interested in machine learning, causal inferenence, Ads measurements, and digital marketing.
+- 🌱 I’m currently a Data Scientist at Google, LLC.
 - 📫 Contact me at [andyzzr809 AT gmail DOT com](mailto:andyzzr809@gmail.com); You can also learn more about me at my [personal website](https://www.zhangzr.net).
 
 <!---
